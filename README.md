@@ -6,6 +6,8 @@
 
 **Usage Instructions:** In order to use this application, the user must input a desired city, along with a valid api key for the openweathermap api. If both are entered correctly, the app will display the current and forecast weather statistics. In order to change location, the user must restart the application and re-enter the new city along with their api key.
 
+**Documentation:** Full documentation available on my portfolio website  https://mbdetering.github.io/
+
 **Future Plans:** 
 - expand database to account for more locations
 - add more weather statistics including weather maps
